@@ -3,7 +3,9 @@
 </a>
 
 <details>
-<summary><b>Version française</b></summary>
+<summary><picture><img src="assets/bouton-version-francaise.png" width="94%" align="middle" alt="Version française : cliquer pour ouvrir ou fermer"></picture></summary>
+
+<br>
 
 ### Du métal au code, *le goût du travail bien fait.*
 
