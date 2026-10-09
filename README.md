@@ -2,7 +2,7 @@
   <img src="assets/banniere-en.png" width="100%" alt="BLACK-STAR. Adam Boulkhedert, full stack developer. React, Node.js, PostgreSQL.">
 </a>
 
-<details>
+<details name="langue">
 <summary><picture><img src="assets/bouton-version-francaise.png" width="94%" align="middle" alt="Version française : cliquer pour ouvrir ou fermer"></picture></summary>
 
 <br>
@@ -53,9 +53,12 @@ Depuis 2024, je transpose ces exigences dans le **développement web**. Je conç
   <a href="https://github.com/Black-Star-Pen/PortFolio">Code</a>
 </p>
 
----
-
 </details>
+
+<details name="langue" open>
+<summary><picture><img src="assets/bouton-english-version.png" width="94%" align="middle" alt="English version: click to open or close"></picture></summary>
+
+<br>
 
 ### From metal to code, *a taste for work done right.*
 
@@ -102,3 +105,5 @@ Since 2024, I have carried those standards into **web development**. I build app
   &nbsp;·&nbsp;
   <a href="https://github.com/Black-Star-Pen/PortFolio">Code</a>
 </p>
+
+</details>
